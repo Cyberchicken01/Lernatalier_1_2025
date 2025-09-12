@@ -12,18 +12,16 @@ Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in 
 Weil es meine erste Lernperiode ist, möchte ich von Anfang an eine gute Struktur haben. Ich will feste Lernzeiten einplanen, regelmässig kleine Programme machen und meine Fortschritte aufschreiben
 
 ### Projekte / neue Technologien
-In dieser Periode möchte ich einfache Programme in C# schreiben, um das Gelernte praktisch anzuwenden. Ich habe schon mit Schleifen und if-Bedingungen gearbeitet und kleine Programme gemacht. Beispiele:
-
-Ein Programm, das das Alter prüft und sagt, ob man volljährig ist
-
-Ein Programm mit einer Schleife, das so lange läuft, bis eine bestimmte Bedingung erfüllt ist
-
-Ein Quiz mit Fragen, bei dem if und while verwendet werden
+In dieser Periode möchte ich einfache Programme in C# schreiben, um das Gelernte praktisch anzuwenden. Ich habe schon mit Schleifen und if-Bedingungen gearbeitet und kleine Programme gemacht. Nun möchte ich mein Wissen mit bool-Werten und Arrays erweitern.
 
 ### Generelle Ziele
 Grundlagen in C# (Variablen, Datentypen, Konvertierungen, Bedingungen, Schleifen) sicher anwenden
 
-2–3 kleine Programme selbstständig machen (z. B. mit Schleifen und if)
+bool-Logik richtig einsetzen
+
+Mit Arrays arbeiten und Schleifen anwenden
+
+2–3 kleine Programme selbstständig machen (z. B. Mini-Notenverwaltung, Quiz, Array-Zähler)
 
 Eine gute Lernroutine entwickeln
 
@@ -32,7 +30,13 @@ Sauberen und verständlichen Code schreiben
 
 ## 16.08.2024
 
-Heute habe ich weiter mit Benutzereingaben in C# geübt. Ich habe gelernt, wie man mehrere Bedingungen mit && und || zusammen benutzen kann. Damit konnte ich Programme schreiben, die mehr prüfen als nur eine Sache. Mein Gerade/Ungerade-Programm habe ich auch erweitert: Jetzt fragt es immer wieder nach einer Zahl, bis man die 0 eingibt, dann hört es auf. Dadurch habe ich die while-Schleife besser verstanden und wie sie mit Bedingungen zusammen funktioniert.
+
+
+Heute habe ich weiter mit bool und Arrays gearbeitet. Zuerst habe ich ein Programm geschrieben, das prüft, ob jemand volljährig ist, und die Entscheidung in einer bool-Variable speichert. Danach habe ich mit Arrays geübt: Ich habe ein Array mit mehreren Zahlen erstellt und mit einer Schleife gezählt, wie viele gerade und ungerade Zahlen darin vorkommen.
+
+Das war am Anfang ein bisschen schwierig, aber ich habe gemerkt, dass Arrays sehr praktisch sind, wenn man viele Werte auf einmal speichern und auswerten will. Mit foreach konnte ich die Werte einfach durchgehen.
+
+Außerdem habe ich angefangen, ein kleines Noten-Programm zu machen, bei dem man mehrere Noten eingibt, die in einem Array gespeichert werden. Danach wird der Durchschnitt berechnet und mit einem bool geprüft, ob man bestanden hat oder nicht.
 
 Planung 23.08.2024
 
@@ -44,11 +48,7 @@ Mission 9 von Modul 319 lösen
 
 Mission 10 von Modul 319 lösen
 
-Erste Übungen auf Codewars machen
 
-Ergebnisse dokumentieren
-
-Heute will ich nach Mission 6 und 7 mit den Missionen 8 bis 10 im Modul 319 weitermachen. Außerdem möchte ich anfangen, mit Codewars kleine Aufgaben in C# zu üben. Damit kann ich die Grundlagen wie Bedingungen und Schleifen noch besser trainieren.
 
 ## Lernperiode Reflexion
-Mission 6 und 7 habe ich schon gemacht. Dabei konnte ich die Grundlagen in C# weiter üben, vor allem Bedingungen und Schleifen. Ich hatte auch ein Gespräch mit Herrn Lauk, wo wir über meinen Fortschritt gesprochen haben. Das hat mir geholfen, besser zu verstehen, wo ich stehe und wie ich weitermachen soll. Als Nächstes will ich mit Codewars arbeiten, um C# noch mehr zu trainieren. Dort möchte ich viele kleine Aufgaben lösen und dadurch sicherer im Programmieren werden.
+Ich habe in dieser Lernperiode die Grundlagen in C# geübt (Variablen, Bedingungen, Schleifen). Mit bool und Arrays konnte ich erste eigene Programme (z. B. Notenverwaltung, Zahlen-Programme) schreiben. Ich habe an Modul 319 und Modul 431 gearbeitet und gute Fortschritte gemacht. Nächstes Ziel: mehr Übungen auf Codewars und eigene Projekte erweitern.
